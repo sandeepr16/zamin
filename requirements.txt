@@ -19,6 +19,7 @@ docutils==0.15.2
 filelock==3.0.12
 Flask==1.1.2
 fpdf==1.7.2
+gunicorn==19.9.0
 gast==0.3.3
 gensim==3.8.2
 google-auth==1.14.1
